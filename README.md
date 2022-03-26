@@ -8,7 +8,7 @@ Also add files 'utils' and 'search' if you do not have them on visual studio
     solution = breadth_first_graph_search
 
 
-IMPORTANT: Type these on terminal Visual studio to install 'numpy'
+A) IMPORTANT: Type these on terminal Visual studio to install 'numpy'
 
 1) python -m venv C:\Users\User\Desktop\EightPuzzle\venv
 
@@ -22,7 +22,7 @@ IMPORTANT: Type these on terminal Visual studio to install 'numpy'
 
 
 
-TYPE THESE CODES ON 'Command Prompt (CDM)' QUICK VISUAL STUDIO ACCESS 
+B) TYPE THESE CODES ON 'Command Prompt (CDM)' QUICK VISUAL STUDIO ACCESS 
 
 mkdir wolfgoatcabbage
 
