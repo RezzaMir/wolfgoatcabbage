@@ -33,4 +33,5 @@ new-item wolfgoatcabbage.py
 code .
 
 C) RESULT:
+
 ![Screenshot (1045)](https://user-images.githubusercontent.com/102126445/160235406-e1dd6223-8741-435b-9cd6-c057c6a9fb27.png)
