@@ -22,7 +22,7 @@ A) IMPORTANT: Type these on terminal Visual studio to install 'numpy'
 
 
 
-B) TYPE THESE CODES ON 'Command Prompt (CDM)' QUICK VISUAL STUDIO ACCESS 
+B) TYPE THESE CODES ON 'Command Prompt (CDM)' for QUICK VISUAL STUDIO ACCESS 
 
 mkdir wolfgoatcabbage
 
@@ -31,3 +31,6 @@ cd wolfgoatcabbage
 new-item wolfgoatcabbage.py
 
 code .
+
+C) RESULT:
+![Screenshot (1045)](https://user-images.githubusercontent.com/102126445/160235406-e1dd6223-8741-435b-9cd6-c057c6a9fb27.png)
