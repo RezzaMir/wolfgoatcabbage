@@ -1,4 +1,4 @@
-# wolfgoatcabbage the wolfgoatcabbage.py file can find DFS and BFS solutions of the puzzle Wolf Goat Cabbage and Farmer
+#The wolfgoatcabbage.py file can find DFS and BFS solutions of the puzzle Wolf Goat Cabbage and Farmer
 
 the wolfgoatcabbage.py file can find DFS and BFS solutions of the puzzle Wolf Goat Cabbage and Farmer
 
