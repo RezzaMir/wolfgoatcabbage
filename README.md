@@ -3,6 +3,10 @@ The wolfgoatcabbage.py file can find DFS and BFS solutions of the puzzle Wolf Go
 
 Also add files 'utils' and 'search' if you do not have them on visual studio
 
+https://github.com/aimacode/aima-python/blob/master/utils.py
+
+https://github.com/aimacode/aima-python/blob/master/search.py
+
     solution = depth_first_graph_search
     solution = breadth_first_graph_search
 
